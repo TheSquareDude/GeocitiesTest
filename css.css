@@ -1,0 +1,7 @@
+body {
+  font-family: 'Comic Sans MS', 'Chalkboard SE', 'Comic Neue', sans-serif;
+  color: rgb(255, 255, 255);
+  background: url('/backgrounds/minimal-cyan.png');
+  max-width: 800px;
+  margin: 0 auto; /* this centers the contents on the page */
+}
